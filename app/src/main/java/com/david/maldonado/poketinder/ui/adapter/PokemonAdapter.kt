@@ -1,10 +1,11 @@
-package com.david.maldonado.poketinder
+package com.david.maldonado.poketinder.ui.adapter
 
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
+import com.david.maldonado.poketinder.data.model.PokemonResponse
 import com.david.maldonado.poketinder.databinding.ItemPokemonBinding
 
 class PokemonAdapter(

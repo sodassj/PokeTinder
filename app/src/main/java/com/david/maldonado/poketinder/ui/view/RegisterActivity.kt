@@ -1,9 +1,10 @@
-package com.david.maldonado.poketinder
+package com.david.maldonado.poketinder.ui.view
 
 import android.content.Intent
 import android.os.Bundle
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
+import com.david.maldonado.poketinder.ui.viewmodel.RegisterViewModel
 import com.david.maldonado.poketinder.databinding.ActivityRegisterBinding
 
 class RegisterActivity : AppCompatActivity() {

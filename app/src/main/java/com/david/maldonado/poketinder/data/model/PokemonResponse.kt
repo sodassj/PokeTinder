@@ -1,4 +1,4 @@
-package com.david.maldonado.poketinder
+package com.david.maldonado.poketinder.data.model
 
 data class PokemonResponse(
     val name: String,
